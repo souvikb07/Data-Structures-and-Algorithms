@@ -4,7 +4,7 @@
 
 # Week 1
 ### Prgramming Assignment: [A plus B](https://github.com/souvikb07/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%20-1/A%20plus%20B.py)
-### Prgramming Assignment: [Maximum Pairwise Product]()
+### Prgramming Assignment: [Maximum Pairwise Product](https://github.com/souvikb07/Data-Structures-and-Algorithms/blob/master/Algorithmic%20Toolbox/Week%20-1/max_pairwise_product.py)
 
 # Week 2
 
